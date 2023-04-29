@@ -23,41 +23,14 @@
 5. 接口/SDK的使用文档自动化生成。通过代码可以清晰解析出各个接口的使用方式,适合AI自动生成文档。
 6. 以上都是代码自动文档生成的比较适用的场景。虽然目前AI的代码分析和理解能力还不及人工,但在一定范围内,利用好AI的自动化能力,还是可以在大幅度节省人工劳动时间的同时,保证较高的文档和教程质量。
 
-## Getting Started
 
-### Installing
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/awekrx/AutoDoc-ChatGPT.git
-```
-
-Then install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Supported programming languages
-
-- [X] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python
-- [X] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" /> JavaScript
-- [X] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" /> TypeScript
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20" /> Go
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" /> C#
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" /> C++
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" /> PHP
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20" /> Ruby
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="20" /> Rust
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" /> Java
-- [ ] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" /> Kotlin
-
-And others...
 
 ## 快速使用方式
 
 1. 下载一键部署包：
+
+   链接：https://pan.baidu.com/s/1Ld1WBy_Dtq4opqMMaZYWbg?pwd=1m7u 
+   提取码：1m7u 
 
 2. 解压部署包
 
