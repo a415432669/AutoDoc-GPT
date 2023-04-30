@@ -52,7 +52,7 @@ def read_file(file_path):
         prompt = promptStr
         prompt = prompt.replace("framefile",f"{args['frame']}的{file_name}" if args['frame'] else "" )
         prompt = prompt.replace("CODE", code)
-        print(prompt)
+        # print(prompt)
         result = chatbox.ask(prompt)
         # 根据回答的内容，生成md文档写入到当前项目的outputs目录下
         with open('outputs/' + file_name + '.md', 'w', encoding='utf-8') as f:

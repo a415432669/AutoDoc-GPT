@@ -1,3 +1,2 @@
-call .\venv\Scripts\activate
-python .\parsecode.py
+.\venv\Scripts\python.exe .\parsecode.py
 pause
